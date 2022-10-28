@@ -11,9 +11,8 @@ body{
     text-align: center;
 
 }
-header{
-    margin-top: 75px 0;
-   
+header {
+  padding: 75px 0;
 }
 .card{
     display:inline-block;
